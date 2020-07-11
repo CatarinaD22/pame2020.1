@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html,
+body{
+    height: 100%;
+    min-height: 100%;
+    }
+
+
+body{
+    font-family: 'Open Sans' ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 243, 243) ;
+
+}
+
+
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: white ; 
+ 
+    width: 75%;
+    height: 90%;
+    border: grey;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    align-items: flex-start;
+    background-color: white;
+    width: 100%;
+    height:50px ;
+    top:50px;
+}
+
+forms{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    height: 90%;
+    width: 99%;
+    
+
+    
+}
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 3mm;
+}
+
+.Cabeçalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+}   
+
+
+
+.classe2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 70%;
+    height: 10%;
+    
+    
+}
+.classe3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:flex-start ;
+    width: 70%;
+    height: 10%;
+}
+
+.classe4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    
+}
+
+.classe5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100%;
+    height: 60%;
+
+}
+
+.centro{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    width:43% ;
+    height: 70%;
+}
+
+
+#jenniekim{
+    border-radius: 50%;
+}
+#iconfluxo
+    {
+    border-radius: 50%;
+}
+#comment{
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+#pesquisa{}
